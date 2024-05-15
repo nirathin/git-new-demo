@@ -1,0 +1,9 @@
+git init
+ vi file
+git add file
+git commit -m
+git status
+git remote origin main url
+git push origin branchname
+
+
